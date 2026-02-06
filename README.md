@@ -12,22 +12,28 @@
 ## Log-Log Power Law Model
 ![Log-Log Power Law Model](images/log_log_history_only.png)
 
-## Log-Log Power Law Model Future
+## Log-Log Power Law Model Future Extrapolation
 ![Log-Log Power Law Model](images/log_log.png)
 
 ## Linear-Log Scale Model
 ![Linear-Log Scale Model](images/linear_log.png)
 
-## Limited Range Analysis
+## Zooming in on Today
 ![Limited Range Analysis](images/limited_range.png)
 
 ## Linear-Linear Scale Model
 ![Linear-Linear Scale Model](images/linear_linear.png)
 
 ## Quantile Ratio Analysis
+
+Is the price over time converging toward the power law line?
+
 ![Quantile Ratio Analysis](images/quantile_ratio.png)
 
 ## Years Ahead of Conservative Estimate
+
+For each price (colored lines) we can estimate how many years until that price will be the trend price.
+
 ![Years Ahead Analysis](images/years_ahead.png)
 
 ## Raw ROI Analysis
