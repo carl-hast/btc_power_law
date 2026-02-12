@@ -50,3 +50,15 @@ Is the backwards looking ROI converging towards the ROI predicted by the power l
 The lower bound (blue line) of the lower law stabilized around 2016 or 2017:
 
 ![](images/log_log.gif)
+
+# Appendix: Price vs contemporary power law
+
+At each date, the power law is fitted on history up to that date. These charts shows how actual price and each quantile band have tracked those contemporary fits over time. This can help us understand how power law predictions have evolved with each cycle as new data comes in.
+
+## Price vs contemporary power law (date, log price)
+
+![](images/price_vs_contemporary_power_law.png)
+
+## Price vs contemporary power law (log-log)
+
+![](images/price_vs_contemporary_power_law_log_log.png)
